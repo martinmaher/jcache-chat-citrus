@@ -1,0 +1,7 @@
+*.iml
+.idea/copyright/
+.idea/libraries/
+.idea/*.xml
+target/
+test-output/
+.DS_Store
